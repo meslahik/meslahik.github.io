@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{experience.html}, title{Mojtaba Eslahi-Kelorazi}
+
+== Work Experience
+=== TAM Iran Khodro Co., Tehran, Iran. ~~~ 2013--2015 
+/Researcher and UI Designer/ \n
+- TAM Iran Khodro is part of Iran Khodro, the largest vehicle manufacturing company in Iran. I was member of a development team that was working on a /Web-based Supervisory Control and Data Acquisition (SCADA)/ software system. The software is used in Iran Khodro and in other large companies such as Esfehan Steel Company (Iran's third largest steel producer). More info in [http://tamscada.ir TamSCADA] \n
+- Technologies I worked with includes C\#, .Net Framework, Silverlight and XAML.
+- I was responsible for
+-- Designing the user interface and implementing UI elements such that the software looks impressive and has high usability.
+-- Researching for the latest software development and programming methodologies and keeping the group up to date.
+-- Verification of MVVM design patern. We used this pattern to facilitate separation UI from business logics and data models.
+\n
+
+=== Donyaie Bazi (Game World Magazine), Tehran, Iran. ~~~ 2011--2013
+/Website Manager, Developer and Maintainer/ \n
+- Donyaie Bazi is the largest game magazine in Iran. I was fortunate to work in their team as a web designer, manager and maintainer. At the beginning of my job, I was responsible for improving their website design. Later on, I proposed to develop a new website that provides online purchasing and a small social network for the magazine's fans. After the approval, I successfully developed the website and installed it on a dedicated server by properly configuring the server. The new website reached 20,000 daily page views in average and the magazine's revenue increased. \n
+- www.dbazi.com\n
+
+=== Freelance website Designer and Manager
+- [http://Topex.ir TOPEX]\n
+- [http://gamerzone.ir Gamerzone]\n
+- [http://quranexpo.ir Quranexpo.ir]\n
+- njb.ir\n
+
+== Other Activities
+=== National Game Development Institute ~~~ 2012--2013 \n
+- Game Design Student
+- Courses Passed: Introduction to Game Development, Game Genres and Chronicles, Game Design I, Unity 3.5 \n
+- Participated in a Game Design Contest at the Second Tehran Video Games Expo, 2012\n\n
+
+=== Bazikhoone.com ~~~ 2009--Present \n
+- As a startup, I created a website for publishing video games news, wallpapers and trailers. It was my first experience in web market and the website opened many job opportunities for me.
