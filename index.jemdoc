@@ -1,22 +1,24 @@
 # jemdoc: menu{MENU}{index.html}, title{Mojtaba Eslahi-Kelorazi}
-
 = Mojtaba Eslahi-Kelorazi
 
 ~~~
-{}{img_left}{images/me.jpg}{Mojtaba Eslahi}{150}{150}
-M.Sc. Graduate, Computer Science\n
-Faculty of Mathematics and Computer Science,\n
-[http://atu.ac.ir/en Allameh Tabataba'i University]
-{{<img src="images/pdf.png" alt="My CV"/>}} [http://bazikhoone.com/cv/cv.pdf My CV]
+{}{img_left}{images/me.JPG}{Mojtaba Eslahi}{200}{200}
+PhD Candidate \n
+Distributed Systems Group \n
+[http://www.inf.usi.ch/ Faculty of Informatics] \n
+[http://www.usi.ch/en Universita della Svizzera italiana (USI)] 
+
+\n
+[cv/cv.pdf Curriculum Vitae]
 ~~~
+
+== About
+I'm a PhD student at Universita della Svizzera italiana. I'm thrilled to have [http://www.inf.usi.ch/faculty/pedone/ Prof. Fernando Pedone] as my advisor.
+
+My research is on distributed systems. My research interests include *Distributed Data Structures* and *Dependable Distributed Systems*.
 
 == Contact
-m DOT eslahi DOT k AT gmail\n
-EslahiKelorazi921 AT atu DOT ac DOT ir
+*Office:* Open Space, 2nd Floor, Informatics Building, Universita della Svizzera italiana, 6900 Lugano, Switzerland \n
+*E-mail:* mojtaba DOT eslahi DOT kelorazi AT usi dot ch
 
-~~~
-{}{img_left}{images/fb.png}{facebook}{25}{25}
-[http://facebook.com/m.eslahi.k Facebook]
-~~~
-
-\n\n\n\n\n\n\n\n
+\n
