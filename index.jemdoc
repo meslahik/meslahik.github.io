@@ -28,9 +28,9 @@ Currently, I am working on impelemnting Paxos, an important consensus algorithm,
 Lately, I worked on a distributed B+Tree algorithm. We partition the tree by distributing its nodes in a number of partitions. The main challenge was to provide scalable performance when the number of partitions increases. We use a partitioned state machine protocol developed in our group before.
 
 == Teaching Assistant
-- Systems Programming, Spring 16/17
-- Distributed Systems,	Fall 17/18
-- Operating Systems, Spring 17/18, Spring 18/19
+- Systems Programming, 2017
+- Distributed Systems, 2017
+- Operating Systems, 2018, 2019
 
 == Contact
 *Office:* Open Space, 2nd Floor, Informatics Building, Universita della Svizzera italiana, 6900 Lugano, Switzerland \n
