@@ -4,7 +4,7 @@
 {}{img_left}{images/me.JPG}{Mojtaba Eslahi}{200}{200}
 
 *Mojtaba Eslahi-Kelorazi* \n
-PhD Candidate \n
+Research Assistant \n
 Distributed Systems Group \n
 [http://www.inf.usi.ch/ Faculty of Informatics] \n
 [http://www.usi.ch/en Universita della Svizzera italiana (USI)] 
@@ -28,13 +28,10 @@ Currently, I am working on impelemnting Paxos, an important consensus algorithm,
 Lately, I worked on a distributed B+Tree algorithm. We partition the tree by distributing its nodes in a number of partitions. The main challenge was to provide scalable performance when the number of partitions increases. We use a partitioned state machine protocol developed in our group before.
 
 == Teaching Assistant
-- Operating Systems Spring 18/19
-- Operating Systems Spring 17/18
-- Distributed Systems	Fall 17/18
-- Systems Programming Spring 16/17
+- Systems Programming, Spring 16/17
+- Distributed Systems,	Fall 17/18
+- Operating Systems, Spring 17/18, Spring 18/19
 
 == Contact
 *Office:* Open Space, 2nd Floor, Informatics Building, Universita della Svizzera italiana, 6900 Lugano, Switzerland \n
 *E-mail:* mojtaba DOT eslahi DOT kelorazi AT usi dot ch
-
-\n
