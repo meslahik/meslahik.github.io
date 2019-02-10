@@ -633,7 +633,8 @@ def replacelinks(b):
       # remove any mailto before labelling.
       linkname = re.sub('^mailto:', '', link)
 
-    b = b[:m.start()] + r'<a href=\"%s\">%s<\/a>' % (link, linkname) + b[m.end():]
+    # b = b[:m.start()] + r'<a href=\"%s\">%s<\/a>' % (link, linkname) + b[m.end():]
+    b = b[:m.start()] + r'<a rel=\"noopener noreferrer\" target=\"_blank\" href=\"%s\">%s<\/a>' % (link, linkname) + b[m.end():]
 
     m = r.search(b, m.start())
 

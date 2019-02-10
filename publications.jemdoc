@@ -1,0 +1,33 @@
+# jemdoc: title{Mojtaba Eslahi-Kelorazi}, menu{MENU}{publications.html}
+= Publications
+
+Game Theoretic Approaches in Modeling and Solving Smart Grid Issues
+- Authors: *Mojtaba Eslahi-Kelorazi*, Fereshteh-Azadi Parand
+- Presented in the /IEEE 2015, 2nd International Conference on Knowledge-Based Engineering and Innovation (KBEI)/, Tehran, Iran, November 2015.
+- Abstract: In this paper, we categorize most important issues and subjects in both game theory and smart grid. Also, we have a comprehensive review 
+of articles which propose game theoretic approaches in the field of smart grid.
+- [http://ieeexplore.ieee.org/document/7436184/?tp=&arnumber=7436184 Link]
+
+A Linear Approximation Algorithm For the BPP with the Best Possible Absolute Approximation Ratio
+- Abdolahad Noori, *Mojtaba Eslahi-Kelorazi*
+- Presented in /The 6th International Conference of Iranian Operations Research Society/ Tehran, Iran, May 2013.
+- Abstract: We developed a new heuristic algorithm for solving Bin-Packing problem. Our algorithm guarantees the best possible approximation factor.
+- [http://arxiv.org/abs/1509.06048 Link]
+
+#The Application of Game Theory in Smart Grids in the Presence of Energy Storage Devices
+#- Authors: *Mojtaba Eslahi-Kelorazi*, Fereshteh-Azadi Parand
+#- Presented in /2nd National Conference on Computer Engineering and IT Management/, Tehran, Iran, June 2015.
+#- Abstract: Game theory is the study of conflicts and cooperations between independent, rational agents. We used it to model cutomers' energy usage and #company-customer interactions for the future smart grids.
+#- [http://www.civilica.com/Paper-CSITM02-CSITM02_026.html Link] (In Persian)
+
+#Security Infrastructure of Modern SCADA Systems
+#- Authors: *Mojtaba Eslahi-Kelorazi*
+#- Presented in /First International Conference on Advances in Engineering and Basic Sciences/, Iran, July 2014.
+#- Abstract: A survey on different possible security issues in SCADA systems and how to prevent them.
+#- [http://www.civilica.com/Paper-AEBSCONF01-AEBSCONF01_502.html Link] (In Persian)
+
+#Robot Path Planning Using Cellular Automata
+#- Authors: Mohsen Saadatpour, Abdolahad Noori, *Mojtaba Eslahi-Kelorazi*
+#- Presented in /First Conference on Electrical Engineering and Computer Science/, Gilan, Iran, June 2014.
+#- [http://www.civilica.com/Paper-NCECN01-NCECN01_046.html Link] (In Persian)
+

@@ -1,21 +1,37 @@
 # jemdoc: menu{MENU}{index.html}, title{Mojtaba Eslahi-Kelorazi}
-= Mojtaba Eslahi-Kelorazi
 
 ~~~
 {}{img_left}{images/me.JPG}{Mojtaba Eslahi}{200}{200}
+
+*Mojtaba Eslahi-Kelorazi* \n
 PhD Candidate \n
 Distributed Systems Group \n
 [http://www.inf.usi.ch/ Faculty of Informatics] \n
 [http://www.usi.ch/en Universita della Svizzera italiana (USI)] 
-
-\n
-[cv/cv.pdf Curriculum Vitae]
+\n \n
+[cv/cv.pdf Curriculum Vitae] \n
+[https://www.linkedin.com/in/meslahik/ LinkdIn],
+[https://github.com/meslahik GitHub],
+[https://scholar.google.ch/citations?user=airbE1kAAAAJ&hl=en Google Scholar]
 ~~~
 
-== About
+\n
 I'm a PhD student at Universita della Svizzera italiana. I'm thrilled to have [http://www.inf.usi.ch/faculty/pedone/ Prof. Fernando Pedone] as my advisor.
 
-My research is on distributed systems. My research interests include *Distributed Data Structures* and *Dependable Distributed Systems*.
+== Research
+My research interests include: 
+- Distributed Data Structures
+- Dependable Distributed Systems
+
+Currently, I am working on impelemnting Paxos, an important consensus algorithm, on RDMA networks. For that, we are going to use RDMA verbs efficiently so maximizing the consensus implementation. Later, we will use this consensus leyer for implementing fast fault-tolarent systems.
+
+Lately, I worked on a distributed B+Tree algorithm. We partition the tree by distributing its nodes in a number of partitions. The main challenge was to provide scalable performance when the number of partitions increases. We use a partitioned state machine protocol developed in our group before.
+
+== Teaching Assistant
+- Operating Systems Spring 18/19
+- Operating Systems Spring 17/18
+- Distributed Systems	Fall 17/18
+- Systems Programming Spring 16/17
 
 == Contact
 *Office:* Open Space, 2nd Floor, Informatics Building, Universita della Svizzera italiana, 6900 Lugano, Switzerland \n
