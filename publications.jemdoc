@@ -1,18 +1,21 @@
 # jemdoc: title{Mojtaba Eslahi-Kelorazi}, menu{MENU}{publications.html}
 = Publications
 
-Game Theoretic Approaches in Modeling and Solving Smart Grid Issues
-- Authors: *Mojtaba Eslahi-Kelorazi*, Fereshteh-Azadi Parand
-- Presented in the /IEEE 2015, 2nd International Conference on Knowledge-Based Engineering and Innovation (KBEI)/, Tehran, Iran, November 2015.
-- Abstract: In this paper, we categorize most important issues and subjects in both game theory and smart grid. Also, we have a comprehensive review 
-of articles which propose game theoretic approaches in the field of smart grid.
-- [http://ieeexplore.ieee.org/document/7436184/?tp=&arnumber=7436184 Link]
+DynaTree: A Scalable and FaultTolerant Distributed B+Tree \n
+Mojtaba Eslahi-Kelorazi, Long Le Hoang, and Fernando Pedone \n
+Sibmitted to VLDB 2019
 
-A Linear Approximation Algorithm For the BPP with the Best Possible Absolute Approximation Ratio
-- Abdolahad Noori, *Mojtaba Eslahi-Kelorazi*
-- Presented in /The 6th International Conference of Iranian Operations Research Society/ Tehran, Iran, May 2013.
-- Abstract: We developed a new heuristic algorithm for solving Bin-Packing problem. Our algorithm guarantees the best possible approximation factor.
-- [http://arxiv.org/abs/1509.06048 Link]
+DynaStar: Optimized Dynamic Partitioning for Scalable State Machine Replication \n
+Long Le Hoang, Enrique Fynn, Mojtaba Eslahi-Kelorazi, Robert Soulé and Fernando Pedone \n
+Submitted to ICDCS 2019
+
+[http://ieeexplore.ieee.org/document/7436184/?tp=&arnumber=7436184 Game Theoretic Approaches in Modeling and Solving Smart Grid Issues] \n
+Mojtaba Eslahi-Kelorazi, Fereshteh-Azadi Parand \n
+IEEE 2015, 2nd International Conference on Knowledge-Based Engineering and Innovation (KBEI), November 2015.
+
+[http://arxiv.org/abs/1509.06048 A Linear Approximation Algorithm For the BPP with the Best Possible Absolute Approximation Ratio] \n
+Abdolahad Noori, Mojtaba Eslahi-Kelorazi \n
+The 6th International Conference of Iranian Operations Research Society, May 2013
 
 #The Application of Game Theory in Smart Grids in the Presence of Energy Storage Devices
 #- Authors: *Mojtaba Eslahi-Kelorazi*, Fereshteh-Azadi Parand

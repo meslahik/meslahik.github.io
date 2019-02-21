@@ -1,0 +1,22 @@
+# jemdoc: title{Mojtaba Eslahi-Kelorazi}, menu{MENU}{presentations.html}
+= Presentations
+
+Here is a list of my presentations in our paper reading group. The presentation is scheduled on Thursdays at 2 p.m. You can find the list all presentations [https://dslab.inf.usi.ch/reading/ here].
+
+[https://www.usenix.org/node/196246 Balancing CPU and Network in the Cell Distributed B-Tree Store] \n
+[presentations/cell.key Slide]
+
+[https://spcl.inf.ethz.ch/Research/Parallel_Programming/DARE/dare-TR.pdf Dare: High-Performance State Machine Replication on RDMA Networks] \n
+[presentations/dare.key Slide]
+
+[https://link.springer.com/chapter/10.1007/978-3-319-03089-0_4 Concurrent Wait-Free Red Black Trees] \n
+[presentations/rdtree.key Slide]
+
+[https://dl.acm.org/citation.cfm?id=2377681 HyperDex: A Distributed, Searchable Key-Value Store] \n
+[presentations/hyperdex.key Slide]
+
+[http://www.cs.nyu.edu/%7Emwalfish/papers/yesquel-sosp15.pdf Yesquel: Scalable SQL Storage for Web Applications] \n
+[presentations/yesquel.key Slide]
+
+[https://dl.acm.org/citation.cfm?id=1453922 A Practical Scalable Distributed BTree] \n
+[presentations/practical-btree.pptx Slide]
