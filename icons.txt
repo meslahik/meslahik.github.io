@@ -1,0 +1,14 @@
+<table class="imgtable">
+	<tr>
+		<td>
+			<img src="images/amirkabir.png" title="Amirkabir Univeristy of Technology" alt="Amirkabir"
+				height="50" />
+			<img src="images/dbazi.png" title="Donya ye Bazi" alt="Amirkabir" height="50" />
+			<img src="images/tam2.png" title="TAM Iran Khodro" alt="Amirkabir" height="50" />
+			<img src="images/allameh2.png" title="Allameh Tabatabae'i University" alt="Allameh"
+				height="50" />
+			<img src="images/usi2.png" title="University of Lugano" alt="USI" height="50" />
+			<img src="images/inesc2.png" title="INESC-ID" alt="INESC-ID" height="50" />
+		</td>
+	</tr>
+</table>

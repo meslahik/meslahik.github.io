@@ -1,66 +1,104 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
-  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
 <head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>Mojtaba Eslahi-Kelorazi</title>
+	<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+	<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+	<title>Mojtaba Eslahi-Kelorazi</title>
 </head>
+
 <body>
-<table summary="Table for page layout." id="tlayout">
-<tr valign="top">
-<td id="layout-menu">
-<div class="menu-category">Menu</div>
-<div class="menu-item"><a href="index.html" class="current">Home</a></div>
-<div class="menu-item"><a href="publications.html">Publications</a></div>
-<div class="menu-item"><a href="presentations.html">Presentations</a></div>
-</td>
-<td id="layout-content">
-<table class="imgtable"><tr><td>
-<img src="images/me.JPG" alt="Mojtaba Eslahi" width="200px" height="200px" />&nbsp;</td>
-<td align="left"><p><b>Mojtaba Eslahi-Kelorazi</b> <br />
-Research Assistant <br />
-Distributed Systems Group <br />
-<a href="http://www.inf.usi.ch/">Faculty of Informatics</a> <br />
-<a href="http://www.usi.ch/en">Universita della Svizzera italiana (USI)</a> 
-<br /> <br />
-<a href="cv/cv.pdf">Curriculum Vitae</a> <br />
-<a href="https://scholar.google.ch/citations?user=airbE1kAAAAJ&amp;hl=en">Google Scholar</a>,
-<a href="https://github.com/meslahik">GitHub</a>,
-<a href="https://www.linkedin.com/in/meslahik/">LinkdIn</a></p>
-</td></tr></table>
-<p><br />
-I'm a PhD student at Universita della Svizzera italiana. I'm thrilled to have <a href="http://www.inf.usi.ch/faculty/pedone/">Prof. Fernando Pedone</a> as my advisor.</p>
-<h2>Research</h2>
-<p>My research interests include: </p>
-<ul>
-<li><p>Distributed Data Structures</p>
-</li>
-<li><p>Dependable Distributed Systems</p>
-</li>
-</ul>
-<p>Currently, I am working on impelemnting Paxos, an important consensus algorithm, on RDMA networks. For that, we are going to use RDMA verbs efficiently so maximizing the consensus implementation. Later, we will use this consensus leyer for implementing fast fault-tolarent systems.</p>
-<p>Lately, I worked on a distributed B+Tree algorithm. We partition the tree by distributing its nodes in a number of partitions. The main challenge was to provide scalable performance when the number of partitions increases. We use a partitioned state machine protocol developed in our group before.</p>
-<h2>Teaching Assistant</h2>
-<ul>
-<li><p>Systems Programming, 2017</p>
-</li>
-<li><p>Distributed Systems, 2017</p>
-</li>
-<li><p>Operating Systems, 2018, 2019</p>
-</li>
-</ul>
-<h2>Contact</h2>
-<p><b>Office:</b> Open Space, 2nd Floor, Informatics Building, Universita della Svizzera italiana, 6900 Lugano, Switzerland <br />
-<b>E-mail:</b> mojtaba DOT eslahi DOT kelorazi AT usi dot ch</p>
-<div id="footer">
-<div id="footer-text">
-Page generated 2019-02-21 20:12:25 CET, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
-</div>
-</div>
-</td>
-</tr>
-</table>
+	<table summary="Table for page layout." id="tlayout">
+		<tr valign="top">
+			<td id="layout-menu">
+				<div class="menu-category">Menu</div>
+				<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+				<div class="menu-item"><a href="publications.html">Publications</a></div>
+				<div class="menu-item"><a href="presentations.html">Presentations</a></div>
+			</td>
+			<td id="layout-content">
+				<table class="imgtable">
+					<tr>
+						<td>
+							<img src="images/me.JPG" alt="Mojtaba Eslahi" height="200px" />&nbsp;</td>
+						<td align="left">
+							<p><br />
+								<b>Mojtaba Eslahi-Kelorazi</b> <br />
+								Research Assistant <br />
+								Distributed Systems Group <br />
+								<a href="http://www.usi.ch/en">Universita della Svizzera italiana (USI)</a>
+								<br /> <br />
+								<a href="cv/cv.pdf">Curriculum Vitae</a> <br />
+								<a href="https://scholar.google.ch/citations?user=airbE1kAAAAJ&amp;hl=en">Google
+									Scholar</a>,
+								<a href="https://github.com/meslahik">GitHub</a>,
+								<a href="https://www.linkedin.com/in/meslahik/">LinkdIn</a>
+								<br /><br />
+								Email: mojtaba.eslahi.kelorazi(at)usi.ch</p>
+						</td>
+					</tr>
+				</table>
+				<p><br />
+					I am a Ph.D. student at the University of Lugano, where I am serving as a research assistant in
+					Distributed Systems groups under the supervision of <a
+						href="http://www.inf.usi.ch/faculty/pedone/">Prof. Fernando Pedone</a>.</p>
+				<h2>Research</h2>
+				<p>My research interests include <b>distributed data structures</b> and <b>dependable distributed
+						systems</b>. </p>
+				<p>I am currently working on using RDMA network to boost the performance of distributed systems.
+					In particular, we are interested in using RDMA's shared-memory model to build fault-tolerant systems
+					that are both scalable and strongly consistent.
+					Lately, I worked on a distributed B+Tree algorithm called DynaTree.
+					We partition the tree by distributing its nodes in a number of partitions.
+					DynaTree provides scalable performance for a number of workloads while ensuring linearizability.</p>
+				<h3>Visiting Researcher</h3>
+				<p>INESC-ID, University of Lisbon, Portugal <br />
+					September-October 2019</p>
+				<h3>Teaching Assistant</h3>
+				<ul>
+					<li>
+						<p>Distributed Algorithms Fall’20</p>
+					</li>
+					<li>
+						<p>Operating Systems Spring’18, Spring’19, Spring’20</p>
+					</li>
+					<li>
+						<p>Distributed Systems Fall’17</p>
+					</li>
+					<li>
+						<p>Systems Programming Spring’17</p>
+					</li>
+				</ul>
+				<h3>Paper Review</h3>
+				<p>I served as a reviewer in major systems conferences: <br />
+					DSN 2020, EuroSys 2020, ICDCS 2019, Middleware 2019-2020, PODC 2020, OPODIS 2020</p>
+				<h2>Contact</h2>
+				<p><b>Office:</b> Open Space, 2nd Floor, Informatics Building, Universita della Svizzera italiana, 6900
+					Lugano, Switzerland <br />
+					<br /></p>
+				<table class="imgtable">
+					<tr>
+						<td>
+							<img src="images/amirkabir.png" title="Amirkabir Univeristy of Technology" alt="Amirkabir"
+								height="50" />
+							<img src="images/dbazi.png" title="Donya ye Bazi" alt="Amirkabir" height="50" />
+							<img src="images/tam2.png" title="TAM Iran Khodro" alt="Amirkabir" height="50" />
+							<img src="images/allameh2.png" title="Allameh Tabatabae'i University" alt="Allameh"
+								height="50" />
+							<img src="images/usi2.png" title="University of Lugano" alt="USI" height="50" />
+							<img src="images/inesc2.png" title="INESC-ID" alt="INESC-ID" height="50" />
+						</td>
+					</tr>
+				</table>
+				<div id="footer">
+					<div id="footer-text">
+						Page generated 2020-10-09 12:07:14 CEST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+					</div>
+				</div>
+			</td>
+		</tr>
+	</table>
 </body>
+
 </html>

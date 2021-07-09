@@ -1,37 +1,46 @@
 # jemdoc: menu{MENU}{index.html}, title{Mojtaba Eslahi-Kelorazi}
 
 ~~~
-{}{img_left}{images/me.JPG}{Mojtaba Eslahi}{200}{200}
-
+{}{img_left}{images/me.JPG}{Mojtaba Eslahi}{}{200}
+\n
 *Mojtaba Eslahi-Kelorazi* \n
 Research Assistant \n
 Distributed Systems Group \n
-[http://www.inf.usi.ch/ Faculty of Informatics] \n
 [http://www.usi.ch/en Universita della Svizzera italiana (USI)] 
 \n \n
 [cv/cv.pdf Curriculum Vitae] \n
 [https://scholar.google.ch/citations?user=airbE1kAAAAJ&hl=en Google Scholar],
 [https://github.com/meslahik GitHub],
-[https://www.linkedin.com/in/meslahik/ LinkdIn]
+[https://www.linkedin.com/in/meslahik/ LinkdIn] 
+\n\n
+Email: mojtaba.eslahi.kelorazi(at)usi.ch
 ~~~
 
 \n
-I'm a PhD student at Universita della Svizzera italiana. I'm thrilled to have [http://www.inf.usi.ch/faculty/pedone/ Prof. Fernando Pedone] as my advisor.
-
+I am a Ph.D. student at the University of Lugano, where I am serving as a research assistant in Distributed Systems groups under the supervision of [http://www.inf.usi.ch/faculty/pedone/ Prof. Fernando Pedone].
 == Research
-My research interests include: 
-- Distributed Data Structures
-- Dependable Distributed Systems
+My research interests include *distributed data structures* and *dependable distributed systems*. 
 
-Currently, I am working on impelemnting Paxos, an important consensus algorithm, on RDMA networks. For that, we are going to use RDMA verbs efficiently so maximizing the consensus implementation. Later, we will use this consensus leyer for implementing fast fault-tolarent systems.
+I am currently working on using RDMA network to boost the performance of distributed systems. 
+In particular, we are interested in using RDMA's shared-memory model to build fault-tolerant systems that are both scalable and strongly consistent.
+Lately, I worked on a distributed B+Tree algorithm called DynaTree. 
+We partition the tree by distributing its nodes in a number of partitions.
+DynaTree provides scalable performance for a number of workloads while ensuring linearizability.
 
-Lately, I worked on a distributed B+Tree algorithm. We partition the tree by distributing its nodes in a number of partitions. The main challenge was to provide scalable performance when the number of partitions increases. We use a partitioned state machine protocol developed in our group before.
+=== Visiting Researcher
+INESC-ID, University of Lisbon, Portugal \n
+September-October 2019
 
-== Teaching Assistant
-- Systems Programming, 2017
-- Distributed Systems, 2017
-- Operating Systems, 2018, 2019
+=== Teaching Assistant
+- Distributed Algorithms Fall’20
+- Operating Systems Spring’18, Spring’19, Spring’20
+- Distributed Systems Fall’17
+- Systems Programming Spring’17
+
+=== Paper Review
+I served as a reviewer in major systems conferences: \n
+DSN 2020, EuroSys 2020, ICDCS 2019, Middleware 2019-2020, PODC 2020, OPODIS 2020
 
 == Contact
 *Office:* Open Space, 2nd Floor, Informatics Building, Universita della Svizzera italiana, 6900 Lugano, Switzerland \n
-*E-mail:* mojtaba DOT eslahi DOT kelorazi AT usi dot ch
+\n
