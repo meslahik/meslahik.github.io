@@ -1,18 +1,17 @@
 # jemdoc: menu{MENU}{index.html}, title{Mojtaba Eslahi-Kelorazi}
 
 ~~~
-{}{img_left}{images/me.png}{Mojtaba Eslahi}{}{200}
-\n
-*Mojtaba Eslahi-Kelorazi* \n
+{}{img_left}{images/me.png}{Mojtaba Eslahi}{}{180}
+== Mojtaba Eslahi-Kelorazi \n
 Research Assistant \n
 Distributed Systems Group \n
 [http://www.usi.ch/en Universita della Svizzera italiana (USI)] 
 \n \n
-[cv/cv.pdf Curriculum Vitae] \n
+[cv/cv.pdf CV],
 [https://scholar.google.ch/citations?user=airbE1kAAAAJ&hl=en Google Scholar],
 [https://github.com/meslahik GitHub],
 [https://www.linkedin.com/in/meslahik/ LinkdIn] 
-\n\n
+\n
 Email: mojtaba.eslahi.kelorazi(at)usi.ch
 ~~~
 
@@ -84,4 +83,4 @@ The 6th International Conference of Iranian Operations Research Society, May 201
 {{</pub>}}
 == Contact
 *Office:* East Campus, Sector D, Room D2.17, Universita della Svizzera italiana, Lugano, Switzerland \n
-\n
+
