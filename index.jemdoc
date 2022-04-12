@@ -19,35 +19,30 @@ Email: mojtaba.eslahi.kelorazi(at)usi.ch
 I am a Ph.D. student at the University of Lugano, where I am serving as a research assistant in Distributed Systems groups under the supervision of [http://www.inf.usi.ch/faculty/pedone/ Prof. Fernando Pedone].
 == Research
 My research interests include *dependable distributed systems* and *distributed data management systems*. 
-
+\n \n
 I am currently working on using RDMA network to boost the performance of distributed systems. 
 In particular, we are interested in using RDMA's shared-memory model to build fault-tolerant systems that are both scalable and strongly consistent. \n
 Lately, I worked on a distributed B\+Tree algorithm called DynaTree. 
 DynaTree is a replicated B+Tree that provides scalable performance for a number of workloads while ensuring linearizability.
 
-=== Visiting Researcher
-INESC-ID, University of Lisbon, Portugal \n
+== Visiting Researcher
+*INESC-ID*, University of Lisbon, Portugal \n
 September-October 2019
 
-=== Talks
-- Mar 2022: Scaling state machine replication, McGill University (Montreal, Canada)
-- Oct 2020: Developing Complex Data Structures over Partitioned State Machine Replication, EDCC'20 (online)
-- Sep 2019: DynaStar: Optimized Dynamic Partitioning for Scalable SMR, University of Lisbon (Lisbon, Portugal)
+== Talks
+- *Mar 2022*: Scaling state machine replication, McGill University (Montreal, Canada)
+- *Oct 2020*: Developing Complex Data Structures over Partitioned State Machine Replication, EDCC'20 (online)
+- *Sep 2019*: DynaStar: Optimized Dynamic Partitioning for Scalable SMR, University of Lisbon (Lisbon, Portugal)
 
-=== Teaching Assistant
-- Distributed Algorithms Fall’20, Fall'21
-- Operating Systems Spring’18, Spring’19, Spring’20
-- Distributed Systems Fall’17
-- Systems Programming Spring’17
+== Teaching Assistant
+- *Distributed Algorithms* Fall’20, Fall'21
+- *Operating Systems* Spring’18, Spring’19, Spring’20
+- *Distributed Systems* Fall’17
+- *Systems Programming* Spring’17
 
-=== Paper Review
+== Paper Review
 I served as a reviewer in major systems conferences: \n
-- EuroSys 2020-2022 \n
-- DSN 2020-2022 \n
-- Middleware 2019-2021 \n
-- PODC 2020 \n
-- OPODIS 2020 \n
-- ICDCS 2019 \n
+*EuroSys*: '20 '21 '22, *DSN*: '20 '21 '22, *Middleware*: '19 '20 '21, *PODC*: '20, *OPODIS*: '20, *ICDCS*: '19
 
 
 
