@@ -1,7 +1,7 @@
 # jemdoc: title{Mojtaba Eslahi-Kelorazi}, menu{MENU}{presentations.html}
 = Presentations
 
-Here is a list of my presentations in our reading group or as a guest researcher. \n
+Here is a list of my presentations in our reading group. \n
 The reading group presentations is scheduled on Thursdays at 2 p.m. \n
 The list of all presentations are available [https://dslab.inf.usi.ch/reading/ here]. \n\n
 
@@ -11,8 +11,6 @@ The list of all presentations are available [https://dslab.inf.usi.ch/reading/ h
 - [https://dl.acm.org/doi/10.1145/3293611.3331601 The Impact of RDMA on Agreement (PODC '20)]
 
 - [https://ieeexplore.ieee.org/document/9237031 Developing Complex Data Structures over Partitioned State Machine Replication (EDCC '20)]
-
-- [https://ieeexplore.ieee.org/document/8885110 DynaStar: Optimized Dynamic Partitioning for Scalable State Machine Replication (ICDCS '19)]
 
 - [https://www.usenix.org/node/196246 Balancing CPU and Network in the Cell Distributed B-Tree Store (ATC '16)]
 [presentations/cell.key \[slides\]]

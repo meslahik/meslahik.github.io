@@ -19,7 +19,7 @@ Email: mojtaba.eslahi.kelorazi(at)usi.ch
 \n
 I am a Ph.D. student at the University of Lugano, where I am serving as a research assistant in Distributed Systems groups under the supervision of [http://www.inf.usi.ch/faculty/pedone/ Prof. Fernando Pedone].
 == Research
-My research interests include *distributed data structures* and *dependable distributed systems*. 
+My research interests include *dependable distributed systems* and *distributed data management systems*. 
 
 I am currently working on using RDMA network to boost the performance of distributed systems. 
 In particular, we are interested in using RDMA's shared-memory model to build fault-tolerant systems that are both scalable and strongly consistent. \n
@@ -30,6 +30,11 @@ DynaTree is a replicated B+Tree that provides scalable performance for a number 
 INESC-ID, University of Lisbon, Portugal \n
 September-October 2019
 
+=== Talks
+- Mar 2022: Scaling state machine replication, McGill University (Montreal, Canada)
+- Oct 2020: Developing Complex Data Structures over Partitioned State Machine Replication, EDCC'20 (online)
+- Sep 2019: DynaStar: Optimized Dynamic Partitioning for Scalable SMR, University of Lisbon (Lisbon, Portugal)
+
 === Teaching Assistant
 - Distributed Algorithms Fall’20, Fall'21
 - Operating Systems Spring’18, Spring’19, Spring’20
@@ -38,8 +43,8 @@ September-October 2019
 
 === Paper Review
 I served as a reviewer in major systems conferences: \n
-- EuroSys 2020, 2022 \n
-- DSN 2020-2021 \n
+- EuroSys 2020-2022 \n
+- DSN 2020-2022 \n
 - Middleware 2019-2021 \n
 - PODC 2020 \n
 - OPODIS 2020 \n
@@ -48,27 +53,35 @@ I served as a reviewer in major systems conferences: \n
 
 
 == Publications
-
-*RamCast: RDMA-based Atomic Multicast* \n
+{{<pub style="font-size: 15px;">}}
+*[https://dl.acm.org/doi/10.1145/3464298.3493393 RamCast: RDMA-based Atomic Multicast]* \n
 Long Hoang Le, Mojtaba Eslahi-Kelorazi, Paulo Coelho, and Fernando Pedone \n
 22nd ACM/IFIP Middleware 2021, Dec 2021
+{{</pub>}}
 
+{{<pub style="font-size: 15px;">}}
 *[https://ieeexplore.ieee.org/document/9237031 Developing Complex Data Structures over Partitioned State Machine Replication]* \n
 Mojtaba Eslahi-Kelorazi, Long Hoang Le, and Fernando Pedone \n
 16th European Dependable Computing Conference (EDCC), September 2020
+{{</pub>}}
 
+{{<pub style="font-size: 15px;">}}
 *[https://ieeexplore.ieee.org/abstract/document/8885110 DynaStar: Optimized Dynamic Partitioning for Scalable State Machine Replication]* \n
 Long Hoang Le, Enrique Fynn, Mojtaba Eslahi-Kelorazi, Robert Soulé and Fernando Pedone \n
 39th IEEE International Conference on Distributed Computing Systems (ICDCS), July 2019
+{{</pub>}}
 
+{{<pub style="font-size: 15px;">}}
 *[http://ieeexplore.ieee.org/document/7436184/?tp=&arnumber=7436184 Game Theoretic Approaches in Modeling and Solving Smart Grid Issues]* \n
 Mojtaba Eslahi-Kelorazi, Fereshteh-Azadi Parand \n
 IEEE 2015, 2nd International Conference on Knowledge-Based Engineering and Innovation (KBEI), November 2015.
+{{</pub>}}
 
+{{<pub style="font-size: 15px;">}}
 *[http://arxiv.org/abs/1509.06048 A Linear Approximation Algorithm For the BPP with the Best Possible Absolute Approximation Ratio]* \n
 Abdolahad Noori, Mojtaba Eslahi-Kelorazi \n
 The 6th International Conference of Iranian Operations Research Society, May 2013
-
+{{</pub>}}
 == Contact
-*Office:* East Campus, Sector D, Office D2.17, Universita della Svizzera italiana, 6900 Lugano, Switzerland \n
+*Office:* East Campus, Sector D, Room D2.17, Universita della Svizzera italiana, Lugano, Switzerland \n
 \n
