@@ -3,16 +3,12 @@
 ~~~
 {}{img_left}{images/me.jpg}{Mojtaba Eslahi}{}{180}
 == Mojtaba Eslahi-Kelorazi \n
-Research Assistant \n
-Distributed Systems Group \n
-[http://www.usi.ch/en Universita della Svizzera italiana (USI)] 
-\n \n
-[cv/cv.pdf CV],
-[https://scholar.google.ch/citations?user=airbE1kAAAAJ&hl=en Google Scholar],
-[https://github.com/meslahik GitHub],
-[https://www.linkedin.com/in/meslahik/ LinkdIn] 
-\n
-Email: mojtaba.eslahi.kelorazi(at)usi.ch
+==== Research Assistant
+==== Distributed Systems Group
+==== [http://www.usi.ch/en Universita della Svizzera italiana (USI)] 
+==== \n
+==== [cv/cv.pdf CV], [https://scholar.google.ch/citations?user=airbE1kAAAAJ&hl=en Google Scholar], [https://github.com/meslahik GitHub], [https://www.linkedin.com/in/meslahik/ LinkdIn] 
+==== Email: mojtaba.eslahi.kelorazi(at)usi.ch
 ~~~
 
 \n
@@ -50,7 +46,7 @@ I served as a reviewer in major systems conferences: \n
 {{<pub style="font-size: 15px;">}}
 *[https://dl.acm.org/doi/10.1145/3464298.3493393 RamCast: RDMA-based Atomic Multicast]* \n
 Long Hoang Le, Mojtaba Eslahi-Kelorazi, Paulo Coelho, and Fernando Pedone \n
-22nd ACM/IFIP Middleware 2021, Dec 2021
+22nd ACM/IFIP Middleware Conference, Dec 2021
 {{</pub>}}
 
 {{<pub style="font-size: 15px;">}}
@@ -68,13 +64,13 @@ Long Hoang Le, Enrique Fynn, Mojtaba Eslahi-Kelorazi, Robert Soulé and Fernando
 {{<pub style="font-size: 15px;">}}
 *[http://ieeexplore.ieee.org/document/7436184/?tp=&arnumber=7436184 Game Theoretic Approaches in Modeling and Solving Smart Grid Issues]* \n
 Mojtaba Eslahi-Kelorazi, Fereshteh-Azadi Parand \n
-IEEE 2015, 2nd International Conference on Knowledge-Based Engineering and Innovation (KBEI), November 2015.
+ 2nd IEEE International Conference on Knowledge-Based Engineering and Innovation (KBEI), November 2015.
 {{</pub>}}
 
 {{<pub style="font-size: 15px;">}}
 *[http://arxiv.org/abs/1509.06048 A Linear Approximation Algorithm For the BPP with the Best Possible Absolute Approximation Ratio]* \n
 Abdolahad Noori, Mojtaba Eslahi-Kelorazi \n
-The 6th International Conference of Iranian Operations Research Society, May 2013
+6th International Conference of Iranian Operations Research Society, May 2013
 {{</pub>}}
 == Contact
 *Office:* East Campus, Sector D, Room D2.17, Universita della Svizzera italiana, Lugano, Switzerland \n

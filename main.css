@@ -226,6 +226,16 @@ h3 {
 	border-bottom: none;
 }
 
+h4 {
+	font-size: 16px;
+	line-height: 1.5;
+	margin-top: 0.0em;
+	margin-bottom: 0;
+	padding: 0;
+	text-align: justify;
+	font-weight: 400;
+}
+
 p {
 	font-size: 16px;
 	line-height: 1.5;
@@ -266,7 +276,7 @@ div#footer a:hover {
 }
 
 div#footer-text {
-	line-height: 30px;
+	line-height: 20px;
 }
 
 ul, ol, dl {
@@ -415,7 +425,7 @@ span.comment, span.comment > *, span.string, span.string > * {
 }
 
 #layout-content h1:first-child, #layout-content h2:first-child, #layout-content h3:first-child {
-	margin-top: -0.7em;
+	margin-top: -0.5em;
 }
 
 div#toptitle h1, #layout-content div#toptitle h1 {
@@ -517,11 +527,15 @@ div#text-container p{
 }
 
 
-div#main{
+/* div#main{
 	margin: auto;
 	height:45px;
 	display:inline-block;
 	vertical-align: middle;
+} */
+
+div#main{
+	display: none;
 }
 
 .openbtn {
@@ -571,9 +585,16 @@ div#layout-menu-container .closebtn:hover {
 		margin-left:0px;
 		width: 100%;
 	}
-	div#main{
+	/* div#main{
 		padding-left: calc(100vw - 150px);
-	}
+	} */
+
+	div#main{
+	margin: auto;
+	height:50px;
+	display:contents;
+	vertical-align: middle;
+}
 
 	.openbtn {
 	  font-size: 26px;
@@ -654,6 +675,10 @@ div#layout-menu-container .closebtn:hover {
 	}
 
 	div#text-container h3{
+		text-align: center;
+	}
+
+	div#text-container h4{
 		text-align: center;
 	}
 }
