@@ -18,8 +18,15 @@ My research interests include *dependable distributed systems* and *distributed 
 \n \n
 I am currently working on using RDMA network to boost the performance of distributed systems. 
 In particular, we are interested in using RDMA's shared-memory model to build fault-tolerant systems that are both scalable and strongly consistent. \n
-Lately, I worked on a distributed B\+Tree algorithm called DynaTree. 
-DynaTree is a replicated B+Tree that provides scalable performance for a number of workloads while ensuring linearizability.
+\n
+Recently, I contributed to the development of the following projects:
+
+- *RamCast*: an atomic multicast protocol for the shared-memory system model by leveraging RDMA technology \[[https://dl.acm.org/doi/10.1145/3464298.3493393 paper], [https://github.com/longle255/libRamcastV3 code]\]
+
+- *DynaTree*: a distributed and replicated B+Tree that guarantees strong consistency \[[https://ieeexplore.ieee.org/document/9237031 paper], [https://github.com/meslahik/dynatree code]\]
+
+- *DynaStar*: a dynamic partitioning scheme for scalabling State Machine Replication \[[https://ieeexplore.ieee.org/abstract/document/8885110 paper], [https://bitbucket.org/usi-dslab/dynastarv2/src/master/ code]\]
+
 
 == Visiting Researcher
 *INESC-ID*, University of Lisbon, Portugal \n
