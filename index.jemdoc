@@ -7,7 +7,7 @@
 ==== Distributed Systems Group
 ==== [http://www.usi.ch/en Universita della Svizzera italiana (USI)] 
 ==== \n
-==== [cv/cv.pdf CV], [https://scholar.google.ch/citations?user=airbE1kAAAAJ&hl=en Google Scholar], [https://github.com/meslahik GitHub], [https://www.linkedin.com/in/meslahik/ LinkdIn] 
+==== [https://scholar.google.ch/citations?user=airbE1kAAAAJ&hl=en Google Scholar], [https://github.com/meslahik GitHub], [https://www.linkedin.com/in/meslahik/ LinkdIn] 
 ==== Email: mojtaba.eslahi.kelorazi(at)usi.ch
 ~~~
 
@@ -20,6 +20,8 @@ I am currently working on using RDMA network to boost the performance of distrib
 In particular, we are interested in using RDMA's shared-memory model to build fault-tolerant systems that are both scalable and strongly consistent. \n
 \n
 Recently, I contributed to the development of the following projects:
+
+- (One more to appear soon)
 
 - *RamCast*: an atomic multicast protocol for the shared-memory system model by leveraging RDMA technology \[[https://dl.acm.org/doi/10.1145/3464298.3493393 paper], [https://github.com/longle255/libRamcastV3 code]\]
 
